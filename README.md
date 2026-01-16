@@ -285,7 +285,7 @@ Example error response:
 
 ---
 
-## 8. Future Enhancements
+## 8. Enhancements made
 
 - Swagger / OpenAPI documentation
 - Pagination and sorting
